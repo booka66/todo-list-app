@@ -1,0 +1,8 @@
+{
+  "flask": {
+    "image": ":todo-server.flask-container.6",
+    "ports": {
+      "5050": "HTTP"
+    }
+  }
+}
